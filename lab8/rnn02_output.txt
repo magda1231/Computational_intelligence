@@ -1,0 +1,2 @@
+Prediction from network  [[4.256146]]
+Prediction from our computation  [[4.25614599]]

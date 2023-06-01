@@ -1,0 +1,8 @@
+Total Tokens:  38030
+Unique Tokens (Token Vocab):  3236
+Total Patterns:  37930
+Seed:
+" first really clever thing the king had said that day . “ that _proves_ his guilt ,” said the queen . “ it proves nothing of the sort !” said alice . “ why , you don ’ t even know what they ’ re about !” “ read them ,” said the king . the white rabbit put on his spectacles . “ where shall i begin , please your majesty ?” he asked . “ begin at the beginning ,” the king said gravely , “ and go on till you come to the end : then stop "
+Generated text:
+, “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , “ the , 
+Done.

@@ -1,0 +1,8 @@
+Total Tokens:  38030
+Unique Tokens (Token Vocab):  3236
+Total Patterns:  37930
+Seed:
+" me at home ! why , i wouldn ’ t say anything about it , even if i fell off the top of the house !” ( which was very likely true .) down , down , down . would the fall _never_ come to an end ? “ i wonder how many miles i ’ ve fallen by this time ?” she said aloud . “ i must be getting somewhere near the centre of the earth . let me see : that would be four thousand miles down , i think —” ( for , you see , "
+Generated text:
+the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the 
+Done.
